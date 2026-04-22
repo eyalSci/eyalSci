@@ -35,4 +35,4 @@ Machine Learning for industrial systems, optimization problems, and data-driven 
 ---
 
 ## 📫 Contact
-LinkedIn: linkedin.com/in/eyal-gav/
+LinkedIn: [linkedin.com/in/eyal-gav/](https://linkedin.com/in/eyal-gav/)

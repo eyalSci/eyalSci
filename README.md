@@ -8,10 +8,10 @@ I work on data-driven models for noisy, real-world systems using Python, PySpark
 
 ## 🔬 Focus Areas
 - Machine Learning (Supervised / Unsupervised / Time-Series)
-- Optimization & Gradient-Based Methods (academic exposure)
 - Uncertainty Modeling in Noisy Systems
 - Large-Scale Data Processing (PySpark)
 - Multimodal Learning & Signal Analysis
+- Optimization & Gradient-Based Methods (academic exposure)
 
 ---
 

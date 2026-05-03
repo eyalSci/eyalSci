@@ -11,8 +11,7 @@ I work on data-driven models for noisy, real-world systems using Python, PySpark
 - Uncertainty Modeling in Noisy Systems
 - Large-Scale Data Processing (PySpark)
 - Multimodal Learning & Signal Analysis
-- Optimization & Gradient-Based Methods (academic exposure)
-
+* Natural Language Processing (Keyword Extraction, Text Classification, Sentiment Analysis)
 ---
 
 ## 🚀 Selected Projects
@@ -26,6 +25,13 @@ I work on data-driven models for noisy, real-world systems using Python, PySpark
 - LSTM + VAR modeling on wearable biosignals
 - Studied temporal dependencies under uncertainty
 - Worked with noisy physiological signals
+
+### 3. Twitter NLP Pipeline – 2020 US Election
+* End-to-end NLP pipeline on ~1.72M tweets (tokenization, keyword extraction, classification)
+* TF-IDF log-odds analysis to identify discriminative terms; Naïve Bayes classifier (61% accuracy)
+* Linked documents to geographic units via shared keywords; correlated against external election results
+* Visualised relationships using time-series plots, choropleth maps, and word importance charts
+
 
 ---
 

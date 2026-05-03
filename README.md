@@ -28,7 +28,7 @@ I work on data-driven models for noisy, real-world systems using Python, PySpark
 
 ### 3. Twitter NLP Pipeline – 2020 US Election
 * End-to-end NLP pipeline on ~1.72M tweets (tokenization, keyword extraction, classification)
-* TF-IDF log-odds analysis to identify discriminative terms; Naïve Bayes classifier (61% accuracy)
+* TF-IDF log-odds analysis to identify discriminative terms; Naïve Bayes classifier
 * Linked documents to geographic units via shared keywords; correlated against external election results
 * Visualised relationships using time-series plots, choropleth maps, and word importance charts
 
